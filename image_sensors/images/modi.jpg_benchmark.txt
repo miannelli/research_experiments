@@ -1,0 +1,21 @@
+Load you documents into MODI
+
+Next, you must load your documents into Microsoft
+Office Document Imaging
+
+1. Click "Start".
+2. Click "All Program".
+3. Click "Microsoft Office".
+4. Click "Microsoft Office Tools".
+5. Click "Microsoft Office Document Imaging".
+
+In Microsoft Office Document Imaging, click "File",
+then "Insert File".  When asked for the file to be
+inserted, locate the scanned TIF file containing your
+document. If you have scanned each page of your
+document into a separate TIF file, repeat this
+process for each TIF file.  After the first file is
+inserted, you will be asked whether you want to
+insert at the beginning, middle, or end of the
+document upon inserting each successive page.
+Make your selection and click "OK".

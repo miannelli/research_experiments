@@ -1,0 +1,60 @@
+XCD A Canonical and Structured Document Format
+
+ 
+
+Jcztll-Luz; Blaccllle. Matlrizio Riglamonﬂ, Karim Hxdjar.
+Dents Lalanne. and Rolflngold
+
+DIVA Gioup, DIUF
+University on-‘iibou iv, Pciolles 7 — Ed de Féicllcs 90,
+won F bourg, S\VlI7.Cl’land
+firstname. la.stnaIltE@uni 5:. ch
+
+Absll ct. Accessing the structured content or PDF docuineiii is .i dimciili task,
+mqulr g prK:rpmCCV Ilg nncl mvclsc CIIgIlICCI'|l\g techniques. hi this pnpci, wc
+iiist present dirreient metlm lo nccnmpti r thix inst. which are tniscd either
+an document Ltgr: aiinlyt . ci an electronic ccntcni exmictiari ' Iell, XCDF,
+a cztnonicnl ruimni with well—t.{e{tn:d pinpeiiie ' piepased as 1| attitztble soltl—
+uon lcr mprese nz stiuctuicd clceiiuiiic ducuiiien. and as an entry point for
+further ieseaiclics and walks The system and tnclhods used tor icvcise engi-
+iiceniig PDF document into this canonical rormat are also presented We tinally
+present current appticaticiis ct’ ihi work into various doimiins, spacing ricm
+data mining to multimedia ltavlgztlloll, nlld consistently Ilcncﬁllng fmtn our ca.
+llortical fnlmctt in older to access PDF document content and strt.lctut'z:$.
+
+ 
+   
+
+ 
+
+ 
+
+ 
+
+1 Introduction
+
+PDF (Portable Document Format! ill) is nowadays a standard rorinat ror exchanging
+documents through the Internet. thanks to s compactness and robust visualization
+ruiietienalities. Despite these major capacities. PDF duetiinents are difﬁcul| in index
+for illforlnallolt retrieval litsks because Iheir content is most often disorganized due to
+optimization reasons. and, therefore, do not respects the reading order. Thus, existing
+indexing systems always need to prcprcecss the PDF documents in order tn extract
+and structure the content H7. 41. In fact, the format presents an iritporturit dratwbitc -
+the documents ate created by PDF producers, which I) privilege layout preservation
+in spite or physical and logical structure - 2) add a multitude oi inconsistencies in the
+document, e g. extra blank spaces, ovct'—scgmcII|(:d words. etc. 125]: 3) are unable to
+generate a PDF doctimeiit in a unique manner to. instance. a producer might consider
+it table as a graplllc whereas another one could consider lhe same table as an inlltge,
+
+These lacks imply that PDF ernciency inside the searcnengiiies for inrorniation
+retrieval can be improved. but also that end users would not be able to copy—p:ts[c
+textual parts of a document from PDF vicwcrs lnztiltlaining the lending ordcr.
+Tllerefore 1) ii recullslruction of homogeneous text entities (\V0|‘dS. lines, and blocks)
+extracted from a PDF tile and 2) a canonical format organizing the orlglllnl content in
+respect of structures and atlltolnlions are required befoie any use of the oi-igimil
+content.
+
+ 
+
+ll. Blilllkt and A.L. sniit (Ed as zuua. LNCS 3372. pp, HI — 152. zone.
+0 Spnl gcr—Vcrlug uerliii t-tcidclueig 2006

@@ -1,0 +1,50 @@
+XCDF: A Canonical and Structured Document Format
+
+lean-Luc Bloechlc, Mlurizio Rignmollli. Karim Hadjar.
+Denis Lalaulne. and Roll lllgold
+
+DIVA Group. DIUF
+Universily olﬁiboilrg. Pérollcx 2 — Bd de réiolks 90.
+
+I700 Fnboutp swlmerland
+tirs:nan.e.1as:n.nineeunitz.ch
+
+AIM:-nut. Accessing me smxluted oouelu oi PDF docurmnl is n dimculr task.
+requiring pre.prdeei.sing nnd Icvﬁse engineering ieenniqder. ln |h|s paper, we
+nrsl piesenr dilierenn niernods Io aeeonplisn this usir, wnien at based ci|her
+on doculnull nnage lnzlysis. or ml eleclmnic oonlﬂil exlratllon. 'I'hcIi, xcur.
+n canotliczl lorrml win. wellderined prepemes is proposed IS : suilable with
+non lnr rep.eseniing slnudured eleclmuic ddennienrs and IS an endry poinl lor
+funhet reseuenes and warts, The . «em and lnelhods used (or reverse engi-
+neenng PDF dneurneni irno Ihlx cermml iorrnn ue aim piesenied we nnnlly
+psesenr eunenr qwlkrunxls of ms wodr IMO vnnpds domns. spseln; from
+dau ininlng Io inulninedu navimori, and eonsmenrly loenelilllln lrdin our ca-
+nomcnl lormu |l| ordev lo neeess vvr document comcm Ind suuenures.
+
+1 Introduction
+
+PDF (Portable Documcnl Formal H1) is nowadays a sundard ldrnsai [or exclnnging
+documents mrougn IN Internet, thanks In its compactness and robust visualizarion
+funclionalilics. nespire inese major cupacilies, pus doennienrs nre dimenli Io index
+lor informluon rerrieul usks beenuse Ihcir conieni is ms: nnen dismganiznd due I0
+optimization rensons. and. Lhcrefore, do not respects me reading ovder. Thus, exisring
+indexing sysrenis a|w:ys need to pieproeess rne ms documulls in order In exlncl
+and xlruclurc lhe conieni 117. el. in mi. Ihe fonnal presenis In ilnpoiunl dnwback:
+me documcnls are created by PDF producers. which 1) privilege Iayoul preservation
+in spire ofpllysical and logical suueuures; 2) Add a mukiulde or inconsisieneies in me
+doeinneni, e.g. em. blank spnees over-segmcnled words. em. [25]; 3) are unable lo
+general: n PDF docnnieni in n unique manner: for insinnee, . prndneer might consider
+a lab): as a graphic wlreiens annmer one could consider the same Iable as an image.
+
+Tliese lacks imply ma: PDF efficiency inside the seaienengines (or information
+rernevnl can be nnpmved, bul also mu end users would not be uble Io copy-paslc
+bexlunl pans of n docunienr rroin rm: viewers ninining Ih: reading nrder.
+Tliereloie I) n reconsunciidn of homogeneous lcxl enmies (words. lines. and blocks)
+exlncled rmni . mar me and 2) . canonical formal organizing Ihe original comcnl in
+respeei or slmclurcs and snndmions art required before my use or Ilse original
+comenl.
+
+ 
+
+H. nnnlre ind A.L Spnl1\Edx.):|7AS woo. LNCS 1372. pp. HI — I52. mod.
+9 springs»/erug Bdin Henklbag zood

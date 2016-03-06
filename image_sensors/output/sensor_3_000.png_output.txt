@@ -1,0 +1,60 @@
+XCD
+
+ 
+
+A Canonical and Structured Document Format
+
+Jean-Luz: Bloecllle. Maurizio Rigamonli. K2||'ill1 Hﬁdjaf.
+Denis Lalanne, and Rolf Ingold
+
+DIVA Group, DIUF
+University oiFrihou t . Petolles 2 — Ed de Péiolles 90.
+
+1700 F boutg, swltzci-land
+Eisstname,1nstnaine@uni£n.ch
+
+   
+
+Abstract. Accessing the structured content or PDF document is a rltmcult (ask,
+mquir g preproces ng and reuctsc engineer-mg techniques. in this paper, we
+tits: ptcsent dirtcrcnt metlm to acconrpli l this task. which are lsased either
+on document ngc unnlys . or on electronic content extinction. Tllen. XCDF.
+a canonical ionnni with weihiefined properties i proposed as a suitable solu—
+tinn rot representing structured electronic documents and us an entry point rot
+further researches and wotks, The system and methods used tor reverse engr-
+neenug PDF document into this canonical format are also presented. we tinolly
+present current applications of this work into various domains, spacing from
+data mining to multimedia navigation, and consistently beneﬁting ﬁnm our ca.
+Ilonicai folmnt in older to access PDF document content and struclurcs.
+
+ 
+
+ 
+
+1 Introduction
+
+PDF (Portable Document Format [1]) is nowadays a standard rornrat rot exchanging
+documents through the Internet, thanks to its compactness and robust visualization
+fullctionnlities. Despite these major capacities, PDF documents are dimcult tn inrlcx
+for information retrieval [asks because Iheir content is most often EiiSU|'g£|niZ€Ei due to
+optimization reasons, and, therefore, do not respects the reading order. Thus, existing
+indexing systems always need to prcprncess the PDF documents in order tn extract
+and structure the content [17, 41. In fact. the format presents an important drawbac
+the documents are created hy PDF producers, which l) privilege layout preservation
+in spite of physical and logical structures; 2) add a multitude of inconsistencies in the
+document, e.g. extt-a blank spaces, over-segmented words, etc. 125]; 3) are unable to
+generate a PDF document in a unique manner for instance. a producer- might consider-
+a table as a graphic whereas another one could consider the slime table as an image.
+
+These lacks imply that PDF erricieney inside the searehengines ror inrorrnaiion
+retrieval can be improved, but also that end users would not be able to copy—p:lstc
+textual parts of a document from PDF viewers maintaining the reading order.
+Tllerefore 1) a reconstruction of homogeneous text entities (words. litres. and blocks)
+extracted from a FDF ale and 2) a canonical formal organizing the original content in
+respect of structures and annotations are required before any use of the original
+content.
+
+ 
+
+H. Bulikc and A.L. Spitz (Eds.): D.-\S 2006. LNCS 3227:, pp. l4l — I52, zone.
+to Spril\gcr—Vcl’ll1g ucrlin l-lcrdcluetg zoos

@@ -1,0 +1,21 @@
+------------------------------------------------------------
+Client connecting to pl2.rcc.uottawa.ca, TCP port 5001
+TCP window size: 21.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.29.153 port 42465 connected with 216.48.80.14 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-102.0 sec  13.5 MBytes  1.11 Mbits/sec
+------------------------------------------------------------
+Client connecting to planetlab2.tsuniv.edu, TCP port 5001
+TCP window size: 21.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.29.153 port 55671 connected with 206.23.240.29 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-100.7 sec  12.1 MBytes  1.01 Mbits/sec
+------------------------------------------------------------
+Client connecting to planetlab1.cs.colorado.edu, TCP port 5001
+TCP window size: 71.3 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.29.153 port 51075 connected with 128.138.207.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-107.2 sec  5.12 MBytes   401 Kbits/sec

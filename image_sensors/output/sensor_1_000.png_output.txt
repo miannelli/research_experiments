@@ -1,0 +1,53 @@
+XCDF: A Canonical and Structured Document Format
+
+Jenn-Luc Bloechlc. Mlurizio Rignmonli. Karim Hadjar.
+Denis Lalallne. and Roll‘ Ingold
+
+DIVA Group. DIUF
+Univevxily oi Frihourg. remixes 2 — Bd rte Pérolles 90.
+1700 Frihoutp swlmeriand
+firstnalm. lasmunouuni fr .ch
+
+Allunst. Acmssing me srmnred «mu-rll ol‘ PDF documcnl is a dllfmlll mik.
+reqniring pm:-pmcening ind reverse engineenng lochniqucx. ln ilris paper, we
+ﬁm pieneni d erern lnelhods to neeongslisn Ihix Ink, which ire bl-med eirner
+on docullxvll ininge anzlyxis. or on elecnenre conlﬂll ulradlon. risen. xcnr.
+:1 canoniczl rornisr win. wrllsleﬁned pnspenies is yl-upmled as a suitable sol...
+Iinn [or repieseniing sirnunn-sl electronic docunnnls and as an entry point [or
+lunhct resenrsires and works. The . warn and nrerliods used tor ruvelsc engi-
+neering PDF docurnclll Imo mrs canonical ronnnr us: also presenied. we rinslly
+preseni crrnenr appllcunxh or mrs wool: Inlo vrrms dinrinrns. sparing [mm
+dau ininrng III nulnniedu nsvigneiorr. and eonsisrenrly hcmflllllg train our ca-
+noninl forum in ordev lo recess var documenl conmll rnd suuclulu.
+
+1 Introduction
+
+PDF (Portable Documenl Formal III) is nowadays a sundlrd ldrniai for exchanging
+documenls Ihrough rise lnieniei, (hanks Io ' s conipacines and robusl visualizarion
+funclionalilies. Dcspile rirese nujor cnpacilies, PDF doculnenls In diﬂicull Io index
+ror inronnniion reirieul usks becxusc their conlull is ms: oﬂcn disorganiznd due to
+oplimizaliorl ressons. amt rliererore, do not respecrs me reading order. Tlnrs. ex ing
+indesing sysunrs nlwnys need lo pltpmccss Ih: PDF doennienrs in order Io cxlncl
+and slmclurc Ihe eonreni (17. 4). in mi. Ihc rornini presenis In irnponnnr drnwlssels:
+the documenls are ereaied by PDF pmdncers. which H privilege lnyoul pi-esemn n
+in spine or physical and logical slruclures: 2) add a rnulriurde oi inconsisieneies in me
+docurncm. ¢.g. esrrn blank spices. om-segnsenred words. etc. [25]: 3) Ir: unable I0
+general: a PDF documenl in a unique nunner: for insuncc. . pmducrr nlighl consider
+n uhle as n grnprric whereas anorirer one could consider me snrne Iabl: as nn inuge.
+
+Tlrese lacks imply mar PDF efficiency inside me sean:h—engines for infomlaliorl
+retrieval can be impmved, bul also mar end users would nor be able lo copypasl:
+Itxtunl pans of n documcnl rrsnn PDF viewtrs 'nI ning me trading nrder.
+niererore I) n reconsrnrciirni of lrrrniogenernrs res: en: es (words. lines. nnd hloclrs)
+exlncled fmm is YDF me and 2) n canonicnl fomul organizing Ihe original comcm in
+respea of stnlclurrs and nnnoulioils nre required bcfolt any use or the original
+comenl.
+
+ 
+
+ 
+
+   
+
+H. Bunk: ind A.L Sp1lz(E1ds.): ms M06, 12465 :02. pp. Ill — in. mod
+0 Spling:rV:¢t.Ig Balin Herddbgwg zoos
